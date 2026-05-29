@@ -4,99 +4,108 @@ Simple Money exchanging
 
 # khali_money_exchanger
 
-## ENGLISH
+# 🪙 khali_money_exchanger | RedM Gold Exchange System
 
-A modern RedM Gold/Cash Exchange script for VORP with a fully animated Old Western glow styled NUI.
+A fully animated and immersive Gold ↔ Cash exchange system for RedM using VORP Core.
 
----
-
-## FEATURES
-
-- VORP Core Support
-- Multiple locations
-- Gold ↔ Cash exchange
-- Daily exchange rate
-- Animated NUI
-- Old Western design
-- Glow effects
-- Multi language (DE/EN)
-- Custom notify
-- Auto close after exchange
-- Map blips
-- Player cash & gold display
-- Prompt system using G key
+Designed in a detailed Old Western glow style with a modern animated NUI and smooth player interaction.
 
 ---
 
-## INSTALLATION
+# ✨ Features
 
-1. Put the folder into your `resources` folder
+✔ Fully animated Old Western NUI
+✔ Gold ↔ Cash exchange system
+✔ Daily changing exchange rate
+✔ Multi language support (DE/EN)
+✔ Custom animated notifications
+✔ Live player cash & gold display
+✔ Multiple exchange locations
+✔ Map blips included
+✔ Prompt interaction using G key
+✔ Automatic UI close after successful exchange
+✔ Modern glow effects & western typography
+✔ Optimized and clean code structure
 
-2. Start the resource:
+---
+
+# 🎨 NUI Design
+
+The interface was designed with a colorful cinematic western atmosphere:
+
+* Animated 2D glow effects
+* Golden western typography
+* Smooth transitions
+* Custom exchange layout
+* Immersive trading feeling
+
+---
+
+# ⚙️ Framework
+
+* VORP Core
+
+---
+
+# 📦 Installation
 
 ```cfg
 ensure khali_money_exchanger
 ```
 
-3. Done
+---
+
+# 🔧 Configuration
+
+Easy configuration for:
+
+* Exchange locations
+* Language
+* Blips
+* Daily exchange rates
+* Open key
 
 ---
 
-## DEPENDENCIES
+# 💰 Exchange System
 
-- vorp_core
+Dynamic daily exchange rate example:
 
----
-
-## CONFIGURATION
-
-### Change language
-
-```lua
-Config.Locale = "DE"
-```
-
-or
-
-```lua
-Config.Locale = "EN"
-```
-
----
-
-### Change locations
-
-```lua
-Config.Locations = {
-
-    vector3(-308.11, 773.92, 118.70),
-    vector3(1292.91, -1301.84, 77.04)
-}
-```
-
----
-
-### Change key
-
-```lua
-Config.OpenKey = 0x760A9C6F
-```
-
----
-
-## EXCHANGE RATE
+* 1 Gold = 3 Cash
+* 1 Cash = 0.33 Gold
 
 The exchange rate changes automatically every day.
 
-Example:
+---
 
-- 1 Gold = 3 Cash
-- 1 Cash = 0.33 Gold
+# 🛠 Included
+
+* Full Source Code
+* Configurable locations
+* Custom UI
+* Notifications
+* VORP Integration
 
 ---
 
-## SUPPORT
+# 📸 Preview
 
-Script Name:
+* Animated Western UI
+* Gold exchange menu
+* Live exchange rate display
+* Custom notifications
 
-`khali_money_exchanger`
+---
+
+# ❤️ Created for RedM Roleplay Servers
+
+Perfect for:
+
+* Economy systems
+* Roleplay trading
+* Banks
+* Black markets
+* Gold traders
+* Interactive city services
+
+---
