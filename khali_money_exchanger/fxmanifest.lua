@@ -1,7 +1,7 @@
 --[[
     ╔═══════════════════════════════════════════════════════════════════╗
     ║                                                                   ║
-    ║               T O D O   S Y S T E M                               ║
+    ║            M O N E Y  E X C H A N G E R                           ║
     ║             ─────────────────────────                             ║
     ║            VORP TODO & CHECKBOX SCRIPT                            ║
     ║                 Redemption Script                                 ║
